@@ -1,0 +1,25 @@
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogin.resources
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form2.resources
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form3.resources
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form4.resources
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\aeron joshua\OneDrive\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogin.resources
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form2.resources
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form3.resources
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form4.resources
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
